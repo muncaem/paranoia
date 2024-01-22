@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42e29bff1a2e5e14f80fab0c97ab7780, type: 3}
+  m_Name: USB
+  m_EditorClassIdentifier: 
+  itemName: USB
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: 9256eb04165a2314ea2d453abd5ef4e8, type: 3}
+  itemPrefab: {fileID: 8522876374844067154, guid: f9cd020979a73294aa54e4519ca89ab4, type: 3}
+  weaponType: 
